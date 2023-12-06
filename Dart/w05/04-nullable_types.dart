@@ -1,5 +1,3 @@
-import '../../../YTU/Dart/w03/student.dart';
-
 void main(List<String> args) {
   //int? a; // ? işaretini koymamızın amacı program normalde hata verir.
   //Hata vermemesi için biz ? işareti koyarak bu değişkenin null olmasına izin veriyoruz

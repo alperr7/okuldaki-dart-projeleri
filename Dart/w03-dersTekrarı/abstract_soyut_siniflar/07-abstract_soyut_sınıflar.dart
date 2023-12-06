@@ -1,5 +1,3 @@
-import '../../../../YTU/Dart/w04/03_abstract_classes.dart';
-
 void main(List<String> args) {
   var sek1 = Dikdortgen();
   sek1.alanHesapla([2, 3]);

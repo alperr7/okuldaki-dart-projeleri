@@ -1,5 +1,5 @@
 //entry point/giriş metodu
-import '../../../YTU/Dart/w02/05_functions_lambda_exp.dart';
+
 import '../w02/02_donguler.dart';
 import '../w02/04_metodlar.dart';
 
